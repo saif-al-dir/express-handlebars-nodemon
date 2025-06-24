@@ -1,0 +1,23 @@
+nav{
+    text-align: center;
+    font-size: 30px;
+}
+
+nav a{
+    margin-left: 10px;
+}
+
+nav a:hover{
+    transition: all 0.3s;
+    background-color: rgba(0, 60, 255, 0.705);
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
